@@ -1,4 +1,4 @@
-# Image Signal Processor (ISP) Core
+# Video Pipleline Core
 **Theme II - Vision & Imaging IP Development** \
 **Track C: ISP (Image Signal Processor) Core**
 
@@ -7,15 +7,15 @@
     <tr>
       <td style="border: 2px solid #58a6ff; border-radius: 10px; padding: 20px;">
         <br>
-        <img src="https://img.shields.io/badge/TEAM-RTL_ARCHITECTS-black?style=for-the-badge&logo=architectural-digest&logoColor=white" style="width: 300px; max-width: 100%;"/>
+        <img src="https://img.shields.io/badge/TEAM-SynthCore -black?style=for-the-badge&logo=architectural-digest&logoColor=white" style="width: 300px; max-width: 100%;"/>
         <br><br>
         <pre align="left">
 ┌──────────────────────────────────────────────────────────┐
 │   <b>Our Team</b>                                               │
 ├──────────────────────────────────────────────────────────┤
 │   > <b>Ranjith Ganesh B</b>                                     │
-│   > <b>Angelin Jebisha C</b>                                    │
-│   > <b>Nithiyasri H</b>                                         │
+│   > <b>Dharshini A</b>                                    │
+│   > <b>Dharani M</b>                                         │
 │   > <b>Royce Niran George A</b>                                 │
 └──────────────────────────────────────────────────────────┘</pre>
         <sub> 🏗️ <i>Synthesizing Logic. Optimizing Latency. Driven by RTL.</i> </sub>
