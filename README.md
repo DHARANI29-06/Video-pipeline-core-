@@ -1,6 +1,6 @@
 # Video Pipeline Core
-**Theme II - Video Processing & Multimedia Systems** \
-**Track C: Video Pipeline Core**
+**Theme - Video Processing & Multimedia Systems** \
+
 
 <div>
   <table>
@@ -15,9 +15,9 @@
 │   <b>Our Team</b>                                               │
 ├──────────────────────────────────────────────────────────┤
 │   > <b>Ranjith Ganesh B</b>                                     │
-│   > <b>Royce Niran George A</b>                                 │
-│   > <b>Dharani M</b>                                            │
 │   > <b>Dharshini A</b>                                          │
+│   > <b>Dharani M</b>                                            │
+│   > <b>Royce Niran George A</b>                                 │
 └──────────────────────────────────────────────────────────┘
 </pre>
         <sub> 🏗️ <i>Synthesizing Logic. Optimizing Latency. Driven by RTL.</i> </sub>
