@@ -211,43 +211,33 @@ The manual includes complete instructions for both development paths:
 ## Snapshots
 
 ### PYNQ-Z2 FPGA BOARD 
-![IMG_20260328_152340 jpg](https://github.com/user-attachments/assets/6108e55e-2c4b-4662-b471-92f83a845e6a)
-<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/b1311d43-4608-4780-be1e-8d53b44ed530" />
+<img width="1600" height="1200" alt="image" src="https://github.com/user-attachments/assets/80eebddd-6b00-40e4-9a2d-b50325251dbc" />
 
 ---
 
 ### RAW BAYER IMAGE GENERATION USING PYTHON
-<img width="991" height="343" alt="image" src="https://github.com/user-attachments/assets/a3d3a193-d618-4622-a723-b7d7e98044ee" />
+<img width="991" height="343" alt="image" src="https://github.com/user-attachments/assets/8b01d620-6516-4c61-b2e3-5cebf129ab0b" />
+
 
 ---
 
 ### FPGA INFERENCE FOR IMAGE SIGNAL PROCESSOR CORE
-<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/24ed649f-06ac-467f-8b54-8c64ee209dfd" />
+<img width="600" height="336" alt="image" src="https://github.com/user-attachments/assets/f9ae48aa-0341-4d8c-b289-0cef9e056289" />
 
 ---
 
 ### CPU INFERENCE FOR IMAGE SIGNAL PROCESSOR CORE
-<img width="756" height="410" alt="image" src="https://github.com/user-attachments/assets/7c74f8ad-2cdd-4f68-bb2c-8c2e39b26cee" />
+<img width="756" height="410" alt="image" src="https://github.com/user-attachments/assets/d648b5e2-106d-459e-91a9-486abe87d5cc" />
 
 ---
 
 ### COMPARISION BETWEEN CPU AND FPGA
-<img width="1007" height="520" alt="image" src="https://github.com/user-attachments/assets/e8b4d8af-2ff1-4305-acf9-0e788dcdfec1" />
+<img width="1007" height="520" alt="image" src="https://github.com/user-attachments/assets/ca7f1aa9-979f-416c-b109-7b411bedf3c0" />
 
 ---
 
-### INPUT IMAGE (PURE RTL)
-<img width="576" height="336" alt="image" src="https://github.com/user-attachments/assets/4d7015ca-88a1-4705-853c-6ee4ffe5dc32" />
-
----
-
-### CONVERTED TO RAW BAYER IMAGE (PURE RTL)
-<img width="973" height="583" alt="im age" src="https://github.com/user-attachments/assets/f0d7ae9c-e09a-4aa3-b61c-7478efd5d6e4" />
-
----
-
-### OUTPUT IMAGE (PURE RTL)
-<img width="636" height="441" alt="image" src="https://github.com/user-attachments/assets/009eb932-275d-480d-8d47-be2d9dc3bccc" />
+### FPGA INFERENCE FOR VIDEO PIPELINE CORE
+<img width="1242" height="628" alt="image" src="https://github.com/user-attachments/assets/4da92e53-d35e-42da-8c23-e37b95fdac94" />
 
 ---
 
