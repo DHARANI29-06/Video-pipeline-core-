@@ -254,6 +254,6 @@ The **Video Pipeline Core** successfully demonstrates a hardware-based solution 
 ![](https://img.shields.io/badge/Verified_in-Vivado_XSIM-0d1117?style=flat-square&labelColor=f0883e)
 ![](https://img.shields.io/badge/RTL-Verilog-0d1117?style=flat-square&labelColor=ff7b72)
  
-**RTL ARCHITECTS** — *Synthesizing Logic. Optimizing Latency. Driven by RTL.*
+**SYNTHCORE** — *Synthesizing Logic. Optimizing Latency. Driven by RTL.*
  
 </div>
