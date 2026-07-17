@@ -131,9 +131,7 @@ ROBOCHIPX-hackathon-SynthCore/
 │       └── isp_output_final.png      # Reconstructed color image from simulation
 │
 ├── README.md                         # Main repository landing page & summary
-├── manual.md                         # Technical manual & implementation guide
-├── proof_of_concept.md               # Deliverables mapping & evaluation proofs
-└── project_report.pdf                # Overall report of the project```
+└── manual.md                         # Technical manual & implementation guide```
 ```
 ---
 
