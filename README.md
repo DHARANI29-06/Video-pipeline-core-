@@ -1,5 +1,5 @@
 # Video Pipeline Core
-**Theme - Video Processing & Multimedia Systems** \
+**Theme - Video Processing & Multimedia Systems** 
 
 
 <div>
